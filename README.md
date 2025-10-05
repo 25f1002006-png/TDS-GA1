@@ -1,4 +1,5 @@
 # Project Gq-ztFUtjV Deployment
+<!--email_off-->25f1002006@ds.study.iitm.ac.in<!--/email_off-->
 
 This architecture note describes how the **data product** moves from _staging_ to **production**, covering the edge cache, API tier, and background workers. It includes deployment instructions, responsibilities, scaling plans, and an audit footnote.
 
